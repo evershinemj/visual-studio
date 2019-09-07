@@ -8,8 +8,6 @@ visual studio has special design for hovering on breakpoints
 > two icons:
 ### settings
 click on settings to configure:
----
-**condition**
----
-**operation**
+- condition
+- operation
 ### deactivate/activate
