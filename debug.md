@@ -9,5 +9,6 @@ visual studio has special design for hovering on breakpoints
 ### settings
 click on settings to configure:
 **condition**
+---
 **operation**
 ### deactivate/activate
