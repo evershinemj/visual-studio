@@ -13,26 +13,27 @@ support:
 **VsVim** is an **awesome** extension.
 It provides excellent vim emulation for visual studio.
 ### features
-- excellent support for vim ==normal mode==
+#### excellent support for vim ==normal mode==
 supported commands:
--- gt
--- zz
--- H, M, L
--- {/}
-- excellent support for vim ==ex mode==
+- gt
+- zz
+- H, M, L
+- {/}
+#### excellent support for vim ==ex mode==
 supported commands:
--- substitute
--- split
--- vsplit
--- write
--- quit
--- delete
--- yank
--- put
--- print
--- echo
+- substitute
+- split
+- vsplit
+- write
+- quit
+- delete
+- yank
+- put
+- print
+- echo
 ### configuration
 configuration is via visual studio preferences(**ctrl-,**) 
+---
 ctrl-, -> VsVim -> keyboard
 #### resolving conflict
 configuration is actually resolving keyboard conflict in VsVim
@@ -45,3 +46,11 @@ configuration is actually resolving keyboard conflict in VsVim
 + Ctrl-p(insert, ex, normal)
 + Ctrl-j(insert)
 + Ctrl-r(insert)
++ Ctrl-v(normal)
+### the command-line window
+note that the output window might block the command-line window, making ex commands
+hidden. in this case, just close the output window to make command-line window visible
+again
+
+## markdown
+the good thing about **markdown extension** in visual studio is that it supports ==extended syntax==
