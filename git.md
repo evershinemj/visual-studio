@@ -11,4 +11,5 @@ click `team -> manage connection` or `view -> team resource manager` to open ==t
 ## history
 click the branch name, say `master` at bottom right, and click `view history`
 ## show working tree
-in ==team resource manager==, go to ==solution==, then click ==show directory view==
+- in ==team resource manager==, go to ==solution==, then click ==show directory view==
+- right click on a file to `commit`, `view history`, etc.
