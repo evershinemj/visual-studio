@@ -1,0 +1,1 @@
+click `tool -> connect to database`, choose ==ODBC data source==, and specify a data source to connect to

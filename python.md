@@ -1,0 +1,1 @@
+click `tool -> python -> python interactive window` to use integrated python.
