@@ -61,3 +61,6 @@ again
 
 ## markdown
 the good thing about **markdown extension** in visual studio is that it supports ==extended syntax==
+### key-shortcuts
++ Ctrl-b **bold**
++ Ctrl-i *italic*
