@@ -64,3 +64,6 @@ the good thing about **markdown extension** in visual studio is that it supports
 ### key-shortcuts
 + Ctrl-b **bold**
 + Ctrl-i *italic*
+
+## open in emacs
+right click on an editor to open in emacs
