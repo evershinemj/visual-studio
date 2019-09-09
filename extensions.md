@@ -19,6 +19,11 @@ supported commands:
 - zz
 - H, M, L
 - {/}
+- ga
+- ge
+- gv
+- ~, g~
+- gU, gu
 #### excellent support for vim ==ex mode==
 supported commands:
 - substitute
@@ -31,6 +36,8 @@ supported commands:
 - put
 - print
 - echo
+- qa
+- x
 ### configuration
 configuration is via visual studio preferences(**ctrl-,**) 
 ---
