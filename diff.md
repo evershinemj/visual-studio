@@ -25,3 +25,6 @@ a slash patch stands for a patch where some code is added in the other file, whi
 - slash patch versus green(add) 
 - red versus slash patch(delete)
 - red versus green(modify)
+
+# right bar chunks
+**the size of the chunks** on the right bar indicate **the number of lines modified**
