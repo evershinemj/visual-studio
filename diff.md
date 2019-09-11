@@ -21,6 +21,7 @@
 # slash patch
 a slash patch stands for a patch where some code is added in the other file, while no code exists in the current file
 
-# two modes of rendering
-- slash patch versus green 
-- red versus green
+# three modes of rendering
+- slash patch versus green(add) 
+- red versus slash patch(delete)
+- red versus green(modify)
