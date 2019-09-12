@@ -39,6 +39,8 @@ supported commands:
 - write
 - quit
 - ls/buffers
+- read
+- shell
 - pwd
 - delete
 - yank
