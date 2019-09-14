@@ -15,6 +15,7 @@ It provides excellent vim emulation for visual studio.
 ### features
 #### excellent support for vim ==normal mode==
 supported commands:
+- zf, zo, zc
 - gt, gT
 - zz
 - H, M, L
@@ -36,11 +37,13 @@ supported commands:
 - substitute
 - split
 - vsplit
+- help(opens VsVim github wiki page)
 - write
 - quit
 - ls/buffers
 - read
 - shell
+- cd
 - pwd
 - delete
 - yank
@@ -49,6 +52,7 @@ supported commands:
 - echo
 - qa
 - x
+- !dir
 #### supports ==.vimrc==
 #### visual support for marks
 this is a **fantastic feature**!
