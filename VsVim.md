@@ -52,6 +52,12 @@ supported commands:
 ## supports ==.vimrc==
 ## visual support for marks
 this is a **fantastic feature**!
+## map support
+supports the following map commands:
+- map
+- imap
+- map <lhs> <rhs>
+- imap <lhs> <rhs>
 
 # configuration
 configuration is via visual studio preferences(**ctrl-,**) 
