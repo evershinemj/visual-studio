@@ -8,3 +8,5 @@ go to line
 toggle VsVim
 # C-q
 quick access
+# C-.
+quick operation/refactoring
