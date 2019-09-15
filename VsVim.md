@@ -21,6 +21,8 @@ supported commands:
 - *, #
 - <<, >>
 - </> + motion
+- !
+- gq
 ## excellent support for vim ==ex mode==
 supported commands:
 - substitute
