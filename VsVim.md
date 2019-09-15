@@ -23,6 +23,8 @@ supported commands:
 - </> + motion
 - !
 - gq
+- gn, v_gn
+- gN, v_gN
 ## excellent support for vim ==ex mode==
 supported commands:
 - substitute
