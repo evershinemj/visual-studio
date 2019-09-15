@@ -6,3 +6,5 @@ switch to alternative tab or a chosen tab
 go to line
 # C-S-f12
 toggle VsVim
+# C-q
+quick access
