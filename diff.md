@@ -11,6 +11,10 @@
 - left file only
 - right file only
 
+# synchronize split diff
+there is a **lock icon** on the toolbar, which controls 
+whether or not to synchronize split diff 
+
 # line diff
 - <u>line diff</u> is rendered with **red/green background**, as opposed to some other implementations which render foreground color
 
