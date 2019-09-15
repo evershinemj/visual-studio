@@ -28,3 +28,6 @@ a slash patch stands for a patch where some code is added in the other file, whi
 
 # right bar chunks
 **the size of the chunks** on the right bar indicate **the number of lines modified**
+
+# viewport box
+the box on the right bar shows the viewport in the whole buffer.
