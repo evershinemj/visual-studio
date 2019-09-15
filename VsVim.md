@@ -26,6 +26,8 @@ supported commands:
 - gn, v_gn
 - gN, v_gN
 - g*, g#
+- Ctrl-w s(:sp)
+- Ctrl-w v(:vsp)
 ## excellent support for vim ==ex mode==
 supported commands:
 - substitute
