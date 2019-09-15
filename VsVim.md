@@ -25,6 +25,7 @@ supported commands:
 - gq
 - gn, v_gn
 - gN, v_gN
+- g*, g#
 ## excellent support for vim ==ex mode==
 supported commands:
 - substitute
