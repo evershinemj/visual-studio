@@ -27,6 +27,7 @@ supported commands:
 - split
 - vsplit
 - help(opens VsVim github wiki page)
+- vimhelp(vs-specific command; open vim official online help)
 - fold(used in visual mode)
 - write
 - quit
