@@ -60,7 +60,8 @@ ctrl-, -> VsVim -> keyboard
 ## resolving conflict
 configuration is actually resolving keyboard conflict in VsVim
 ## keys which needs to be configured to be handled by VsVim instead of visual studio
-> the configuration works both in ==normal mode== and ==insert mode==
+> the configuration works both in ==normal mode== and ==insert mode==.
+> check 'include all scopes' to ensure that the changes apply to all cases
 + Ctrl-[(insert)
 + Ctrl-e(insert, normal)
 + Ctrl-y(insert, normal)
@@ -69,6 +70,12 @@ configuration is actually resolving keyboard conflict in VsVim
 + Ctrl-j(insert)
 + Ctrl-r(insert, normal)
 + Ctrl-v(normal)
++ Ctrl-f(insert, normal)
++ Ctrl-b(insert, normal)
++ Ctrl-u(insert, normal)
++ Ctrl-d(insert, normal)
++ Ctrl-h(insert)
++ Ctrl-w(normal)
 
 # the command-line window
 note that the output window might block the command-line window, making ex commands
